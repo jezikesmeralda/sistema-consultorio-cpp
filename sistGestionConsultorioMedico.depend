@@ -1,0 +1,448 @@
+# depslib dependency file v1.0
+1762101619 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string>
+
+1762101586 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\include\fecha.h
+	<string>
+
+1763165381 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\main.cpp
+	<iostream>
+	"App.h"
+
+1763484907 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\hora.cpp
+	"Hora.h"
+	<iostream>
+	<string>
+	<limits>
+
+1765741084 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\hora.h
+	<string>
+
+1762381334 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\fecha.h
+	<string>
+
+1764035032 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\obrasocialarchivo.cpp
+	"ObraSocialArchivo.h"
+
+1762991501 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\obrasocialarchivo.h
+	"ObraSocial.h"
+	"ArchivoManagerUtil.h"
+	<string>
+
+1762382319 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\obrasocial.h
+	<string>
+
+1762286259 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\src\persona.cpp
+
+1762272456 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\include\persona.h
+
+1763504107 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\persona.cpp
+	"Persona.h"
+	<cstring>
+	<iostream>
+	<limits>
+	<algorithm>
+	<cctype>
+
+1763066779 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\persona.h
+	"Fecha.h"
+	<string>
+
+1764084724 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\historialpacientearchivo.cpp
+	"HistorialPacienteArchivo.h"
+	"PacienteArchivo.h"
+	<iostream>
+
+1762983972 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\historialpacientearchivo.h
+	"HistorialPaciente.h"
+	"ArchivoManagerUtil.h"
+	<string>
+
+1764083498 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\historialpaciente.h
+	<iostream>
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1764083442 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\historialpaciente.cpp
+	"HistorialPaciente.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1764103902 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\obrasocialmanager.cpp
+	"ObraSocialManager.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<cctype>
+
+1763474377 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string>
+
+1763312470 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\obrasocial.cpp
+	"ObraSocial.h"
+	<cstring>
+	<iostream>
+
+1764034378 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\paciente.cpp
+	"Paciente.h"
+	"PacienteArchivo.h"
+	<iostream>
+	<cstring>
+	<limits>
+	<cctype>
+
+1762393353 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\paciente.h
+	"Persona.h"
+	<string>
+
+1764112945 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<vector>
+	<iostream>
+	<algorithm>
+
+1764112967 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\pacientearchivo.h
+	"Paciente.h"
+	"ArchivoManagerUtil.h"
+	<string>
+
+1765639070 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\pacientemanager.cpp
+	"PacienteManager.h"
+	"ObraSocialArchivo.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1764113599 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\pacientemanager.h
+	"PacienteArchivo.h"
+	<string>
+
+1764118606 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\historialpacientemanager.cpp
+	"HistorialPacienteManager.h"
+	"PacienteArchivo.h"
+	"MedicoArchivo.h"
+	<iostream>
+	<vector>
+	<limits>
+
+1762995678 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\historialpacientemanager.h
+	"HistorialPacienteArchivo.h"
+	"PacienteArchivo.h"
+	<string>
+	<vector>
+
+1764030977 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medico.cpp
+	"Medico.h"
+	<iostream>
+	<cstring>
+	<limits>
+	<cctype>
+	<sstream>
+	<iomanip>
+
+1764030498 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medico.h
+	"Persona.h"
+	"Fecha.h"
+	<string>
+
+1762984808 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicoarchivo.h
+	"Medico.h"
+	"ArchivoManagerUtil.h"
+	<string>
+
+1762984911 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicoarchivo.cpp
+	"MedicoArchivo.h"
+	<iostream>
+
+1764113827 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicomanager.cpp
+	"MedicoManager.h"
+	"ArchivoManagerUtil.h"
+	"EspecialidadArchivo.h"
+	<iostream>
+	<algorithm>
+	<cctype>
+
+1764113770 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicomanager.h
+	"MedicoArchivo.h"
+	<vector>
+
+1764036681 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicoobrasocial.cpp
+	"MedicoObraSocial.h"
+	<cstring>
+	<iostream>
+
+1764036749 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicoobrasocial.h
+	<string>
+
+1763493671 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicoobrasocialarchivo.cpp
+	"MedicoObraSocialArchivo.h"
+	<cstdio>
+
+1762991088 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicoobrasocialarchivo.h
+	<string>
+	"MedicoObraSocial.h"
+	"ArchivoManagerUtil.h"
+
+1764036779 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicoobrasocialmanager.cpp
+	"MedicoObraSocialManager.h"
+	<iostream>
+
+1762473423 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\medicoobrasocialmanager.h
+	"MedicoObraSocialArchivo.h"
+	"MedicoArchivo.h"
+	"ObraSocialArchivo.h"
+	<vector>
+	<string>
+
+1764027874 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\especialidad.cpp
+	"Especialidad.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1762478855 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\especialidad.h
+	<string>
+
+1764028220 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\especialidadarchivo.cpp
+	"EspecialidadArchivo.h"
+	<cstdio>
+
+1763481000 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\especialidadarchivo.h
+	"Especialidad.h"
+	"ArchivoManagerUtil.h"
+	<string>
+
+1764028924 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\especialidadmanager.cpp
+	"EspecialidadManager.h"
+	<iostream>
+	<algorithm>
+	<cctype>
+
+1762479673 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\especialidadmanager.h
+	"EspecialidadArchivo.h"
+	"MedicoArchivo.h"
+	<vector>
+
+1764078175 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\agendamed.cpp
+	"AgendaMed.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1763494341 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\agendamed.h
+	"Fecha.h"
+	"Hora.h"
+	<string>
+
+1763506207 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\agendamedarchivo.cpp
+	"AgendaMedArchivo.h"
+
+1763483399 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\agendamedarchivo.h
+	"AgendaMed.h"
+	"ArchivoManagerUtil.h"
+	<string>
+
+1762888328 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\archivobase.cpp
+	"ArchivoBase.h"
+	<cstdio>
+
+1762888328 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\archivobase.h
+	<string>
+
+1762888392 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\managerbase.cpp
+	"ManagerBase.h"
+	<iostream>
+
+1762888354 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\managerbase.h
+	<iostream>
+	<vector>
+	"ArchivoBase.h"
+
+1763507169 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\archivomanagerutil.cpp
+	"ArchivoManagerUtil.h"
+	<cstdio>
+
+1763506946 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\archivomanagerutil.h
+	<string>
+	<vector>
+	<iostream>
+
+1763506308 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\agendamedmanager.cpp
+	"AgendaMedManager.h"
+	"Turno.h"
+	"TurnoArchivo.h"
+	"TurnoManager.h"
+	<iostream>
+	<algorithm>
+
+1763392177 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\agendamedmanager.h
+	"AgendaMedArchivo.h"
+	"MedicoArchivo.h"
+	"ArchivoManagerUtil.h"
+	<string>
+	<vector>
+
+1762992978 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\obrasocialmanager.h
+	"ObraSocialArchivo.h"
+	"ArchivoManagerUtil.h"
+	<string>
+
+1764027043 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\turno.cpp
+	"Turno.h"
+	<cstring>
+
+1764027122 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\turno.h
+	"Fecha.h"
+	"Hora.h"
+	<string>
+
+1763411039 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\turnoarchivo.cpp
+	"TurnoArchivo.h"
+
+1763149992 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\turnoarchivo.h
+	"Turno.h"
+	"ArchivoManagerUtil.h"
+	<string>
+
+1764106841 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\turnomanager.cpp
+	"TurnoManager.h"
+	<algorithm>
+	<vector>
+	<iostream>
+	"MedicoArchivo.h"
+	"AgendaMedArchivo.h"
+	"TurnoArchivo.h"
+	"EspecialidadArchivo.h"
+	"Turno.h"
+	"Medico.h"
+	"AgendaMed.h"
+
+1763483782 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\turnomanager.h
+	"TurnoArchivo.h"
+	"AgendaMedArchivo.h"
+	"PacienteArchivo.h"
+	<string>
+
+1765639100 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\factura.cpp
+	"Factura.h"
+	<cstring>
+	<iostream>
+	<limits>
+
+1764085162 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\factura.h
+	"Fecha.h"
+	<string>
+
+1763490545 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\facturaarchivo.cpp
+	"FacturaArchivo.h"
+	"ArchivoManagerUtil.h"
+
+1763145397 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\facturaarchivo.h
+	"Factura.h"
+	<string>
+
+1765639070 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\detallefactura.cpp
+	"DetalleFactura.h"
+	<iostream>
+	<cstring>
+	<limits>
+
+1764095177 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\detallefactura.h
+	<string>
+
+1763401457 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\detallefacturaarchivo.cpp
+	"DetalleFacturaArchivo.h"
+	"ArchivoManagerUtil.h"
+
+1763145594 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\detallefacturaarchivo.h
+	"DetalleFactura.h"
+	<string>
+
+1764106668 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\facturamanager.cpp
+	"FacturaManager.h"
+	"TurnoArchivo.h"
+	"AgendaMedArchivo.h"
+	"AgendaMed.h"
+	"PacienteArchivo.h"
+	"ObraSocialArchivo.h"
+	"MedicoObraSocialArchivo.h"
+	<iostream>
+	<vector>
+	<cstring>
+	<limits>
+
+1765741007 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\facturamanager.h
+	"FacturaArchivo.h"
+	"DetalleFacturaArchivo.h"
+	"TurnoArchivo.h"
+	<vector>
+
+1763238828 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\app.h
+	<string>
+
+1763237315 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\usuarioarchivo.cpp
+	"UsuarioArchivo.h"
+	"ArchivoManagerUtil.h"
+
+1763237315 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\usuarioarchivo.h
+	"Usuario.h"
+	<string>
+
+1763166518 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\usuario.h
+	<string>
+
+1763312752 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\usuariomanager.cpp
+	"UsuarioManager.h"
+	<iostream>
+
+1763237315 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\usuariomanager.h
+	"UsuarioArchivo.h"
+	<string>
+
+1763399467 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<algorithm>
+	<cctype>
+	<iostream>
+
+1766526552 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\informemanager.cpp
+	"InformeManager.h"
+	<iostream>
+	<vector>
+	<iomanip>
+
+1766526552 c:\users\esm\documents\cpp\sistgestionconsultoriomedico\informemanager.h
+	"PacienteArchivo.h"
+	"MedicoArchivo.h"
+	"TurnoArchivo.h"
+	"FacturaArchivo.h"
+	"DetalleFacturaArchivo.h"
+	"EspecialidadArchivo.h"
+	"AgendaMedArchivo.h"
+	"Fecha.h"
+
+1765839138 source:c:\users\esm\documents\cpp\sistgestionconsultoriomedico\app.cpp
+	"App.h"
+	<iostream>
+	<limits>
+	<cstdlib>
+	"UsuarioManager.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+	"EspecialidadManager.h"
+	"ObraSocialManager.h"
+	"MedicoObraSocialManager.h"
+	"AgendaMedManager.h"
+	"TurnoManager.h"
+	"HistorialPacienteManager.h"
+	"FacturaManager.h"
+	"InformeManager.h"
+	"PacienteArchivo.h"
+

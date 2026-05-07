@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sistGestionConsultorioMedico" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sistGestionConsultorioMedico" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sistGestionConsultorioMedico" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AgendaMed.cpp" />
+		<Unit filename="AgendaMed.h" />
+		<Unit filename="AgendaMedArchivo.cpp" />
+		<Unit filename="AgendaMedArchivo.h" />
+		<Unit filename="AgendaMedManager.cpp" />
+		<Unit filename="AgendaMedManager.h" />
+		<Unit filename="App.cpp" />
+		<Unit filename="App.h" />
+		<Unit filename="ArchivoManagerUtil.cpp" />
+		<Unit filename="ArchivoManagerUtil.h" />
+		<Unit filename="DetalleFactura.cpp" />
+		<Unit filename="DetalleFactura.h" />
+		<Unit filename="DetalleFacturaArchivo.cpp" />
+		<Unit filename="DetalleFacturaArchivo.h" />
+		<Unit filename="Especialidad.cpp" />
+		<Unit filename="Especialidad.h" />
+		<Unit filename="EspecialidadArchivo.cpp" />
+		<Unit filename="EspecialidadArchivo.h" />
+		<Unit filename="EspecialidadManager.cpp" />
+		<Unit filename="EspecialidadManager.h" />
+		<Unit filename="Factura.cpp" />
+		<Unit filename="Factura.h" />
+		<Unit filename="FacturaArchivo.cpp" />
+		<Unit filename="FacturaArchivo.h" />
+		<Unit filename="FacturaManager.cpp" />
+		<Unit filename="FacturaManager.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="HistorialPaciente.cpp" />
+		<Unit filename="HistorialPaciente.h" />
+		<Unit filename="HistorialPacienteArchivo.cpp" />
+		<Unit filename="HistorialPacienteArchivo.h" />
+		<Unit filename="HistorialPacienteManager.cpp" />
+		<Unit filename="HistorialPacienteManager.h" />
+		<Unit filename="Hora.cpp" />
+		<Unit filename="Hora.h" />
+		<Unit filename="InformeManager.cpp" />
+		<Unit filename="InformeManager.h" />
+		<Unit filename="Medico.cpp" />
+		<Unit filename="Medico.h" />
+		<Unit filename="MedicoArchivo.cpp" />
+		<Unit filename="MedicoArchivo.h" />
+		<Unit filename="MedicoManager.cpp" />
+		<Unit filename="MedicoManager.h" />
+		<Unit filename="MedicoObraSocial.cpp" />
+		<Unit filename="MedicoObraSocial.h" />
+		<Unit filename="MedicoObraSocialArchivo.cpp" />
+		<Unit filename="MedicoObraSocialArchivo.h" />
+		<Unit filename="MedicoObraSocialManager.cpp" />
+		<Unit filename="MedicoObraSocialManager.h" />
+		<Unit filename="ObraSocial.cpp" />
+		<Unit filename="ObraSocial.h" />
+		<Unit filename="ObraSocialArchivo.cpp" />
+		<Unit filename="ObraSocialArchivo.h" />
+		<Unit filename="ObraSocialManager.cpp" />
+		<Unit filename="ObraSocialManager.h" />
+		<Unit filename="Paciente.cpp" />
+		<Unit filename="Paciente.h" />
+		<Unit filename="PacienteArchivo.cpp" />
+		<Unit filename="PacienteArchivo.h" />
+		<Unit filename="PacienteManager.cpp" />
+		<Unit filename="PacienteManager.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Turno.cpp" />
+		<Unit filename="Turno.h" />
+		<Unit filename="TurnoArchivo.cpp" />
+		<Unit filename="TurnoArchivo.h" />
+		<Unit filename="TurnoManager.cpp" />
+		<Unit filename="TurnoManager.h" />
+		<Unit filename="Usuario.cpp" />
+		<Unit filename="Usuario.h" />
+		<Unit filename="UsuarioArchivo.cpp" />
+		<Unit filename="UsuarioArchivo.h" />
+		<Unit filename="UsuarioManager.cpp" />
+		<Unit filename="UsuarioManager.h" />
+		<Unit filename="agendas_medicos.dat" />
+		<Unit filename="detalles_factura.dat" />
+		<Unit filename="especialidades.dat" />
+		<Unit filename="facturas.dat" />
+		<Unit filename="include/Persona.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="medico_obrasocial.dat" />
+		<Unit filename="medicos.dat" />
+		<Unit filename="obrasocial.dat" />
+		<Unit filename="pacientes.dat" />
+		<Unit filename="sistGestionConsultorioMedico.cbp" />
+		<Unit filename="sistGestionConsultorioMedico.depend" />
+		<Unit filename="sistGestionConsultorioMedico.layout" />
+		<Unit filename="src/Persona.cpp" />
+		<Unit filename="turnos.dat" />
+		<Unit filename="usuarios.dat" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
